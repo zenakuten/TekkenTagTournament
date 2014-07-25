@@ -1,0 +1,1189 @@
+
+
+*********************************************
+
+  Advanced Tekken Tag Tournament Techniques
+
+         Copyright (c) 1999, 2000
+  Josh Turpen (jjt) and Dong Lee (KOFTEKKEN)
+
+*********************************************
+
+
+****************************
+Disclaimer
+****************************
+
+Publication of this material is strictly prohibited without expressed
+written permission of the authors.  Distribution in electronic form
+is granted so long as the document is not altered in any way.
+
+****************************
+Overview
+****************************
+
+This FAQ is not for the beginner or even intermediate Tekken player.
+This FAQ deals with advanced techniques and terminology that can best
+be understood by advanced Tekken players.  Almost all of the
+information in this FAQ has come from internet BBS's, the authors'
+own experiences, and frame data analysis.  It is a culmination of all
+of the secrets discovered by the experts.  For a better understanding
+of the terms used in this FAQ, consult www.tekkenzaibastu.com.
+
+And now, on to the good stuff...
+
+
+****************************
+General tricks
+****************************
+
+If a flying chop (WR+1+2) is blocked below the knees, a basic
+punch/kick is garanteed and juggles.
+
+Crouch cancel: When a move recovers crouching, if you tap u or f,f
+on the last frame of the recovery of the move, it will instead
+recover standing.  This makes juggles like Yoshi's D,df+3, d+1,
+cc + 1, ff+4 possible.
+
+Instant WS:  If you do d~db,N,button, you will  do a WS move that
+comes out quicker than just doing D,N+button.  The reason for this
+is that you have to hold D for a certain number of frames before the
+CPU knows that you are going into a crouching position and not
+attempting a sidestep (d~N).  Doing d~db,N+button skips this sidestep
+check.  An alternate method of doing the Instant WS is by doing
+d~df,N, button.
+
+Natural low parry:  If you do a natural low parry (d+1+3/d+2+4 with
+most characters that have it) and you don't do anything
+(e.g. d+1+3, N) you will be considered standing during the low parry
+animation and can do standing moves.  If you hold down during the low
+parry animation you will be considered crouching when the low parry
+animation is over and you can do FC moves.  This is a faster way to
+get into crouching position than just holding D because it again
+skips the check to see if you are sidesteping (d~N).
+
+
+1+2+3+4 super charge:  if you tag out, your tag in character will be
+super charged.
+
+HaHa step for everybody:  qcb~N~b repeat.  If you do it correctly it
+should be as smooth as Lei's.  You may notice that the qcb~N~b is
+just like doing a Mishima wave step backwards.
+
+You recover from a jump crouching, good for WS/FC setups like Bryan
+jump into C.O.M or Chang's jump->D,df+4,3.
+
+
+JOT (Jump-over-tricks):
+Jumping is good vs a grounded opponent as you can jump over them and
+then d+1 them and make them get up backturned for free WS+2 or
+whatever.  Example, you SS to your opponents side while they are
+grounded then you jump over them.  They get up thinking you messed up
+by jumping but then you d+1 them and make them get backwards.  Moves
+that jump over grounded are even better than just jumping over them
+as it has an even stronger appearance that you messed up when
+actually you are setting them up.
+
+Good moves for jump-over-tricks:
+
+
+Anna/Nina's uf+4
+
+A.Kings CD+3?
+
+Baek 3+4, uf+2?
+
+Michelle: ff+2
+
+Mishimas: f,N,d,df,f,uf (little crouch-dash-hop-thingy)
+
+Hwoarang: ff+4
+
+Kuma/Panda: uf+1+2
+
+Kuni/Yoshi: uf+3+4
+
+Lee: uf+3 ?
+
+
+Escaping from being back turned:  If you get knocked backwards or
+tricked into getting up backwards, etc, one of the best ways to get
+out of it is to perform a throw.  The throw attempt will turn you
+around as quickly as a BK d+1 will, but you don't have to worry about
+getting CH like you do with d+1.
+
+
+Netsu oddities:  Moves that do no damage but cause a stun (like anna's
+df+1+2 or a taunt) count as a hit towards netsu powerup.
+
+Throw escapes:  When a throw is attempted, the animation for the
+throw attempt will show either the left hand out further, the right
+hand out further, or both hands equal, which correlates to the
+escape of the throw.  So if you just watch the characters hands
+as they are trying to throw you, you will be able to tell the escape
+before it even connects.  Difficult, but not impossible.  You just
+need to always pay close attention to your opponent characters hands
+when you are in throw range.
+
+Also, regardless of what you may have heard, you only get 1 attempt
+to escape a throw.  You cannot mash 1~2~1+2 and escape every throw.
+If you did that you would just escape 1 escape throws as it only
+registers the first button you tried to escape with.
+
+
+*******************************
+Character specific tricks
+*******************************
+
+
+**********************
+Anna Williams
+**********************
+
+Basic Jab: 8 frames
+
+Her uf+1+2 throw can be tech rolled, however if you tag throw and
+they tech roll, a flying chop (f,f,N+1+2) is almost garanteed.  They
+can escape it by tagging out after they tech.
+
+uf+1,3:  If the 3 hits them non-ch, a f+1+2 is garanteed.  With CH
+it's  a double over stun.  Also, uf+1~3,f+1+2 is a true combo.  Sick.
+
+After df+1+2, d+1, N+4 is garanteed (if you are close enough)
+
+After df+1+2 hits on a crouched opponent, f+1+2 is garanteed.  Also
+garanteed is uf+1~3,f+1+2.  Sick.
+
+If you get hit by the uf+3 grab, you can mash 4 to reduce the
+damage to 5~7 points.
+
+If they don't hold back/down to escape the stagger, CH 4, uf+1~3,
+f+1+2 all combos.
+
+Even though it's the same kick, CH 4 causes a stagger, while CH f+4
+juggles.
+
+**********************
+Armor King
+**********************
+
+Basic Jab: 8 frames
+
+Wave step:  f,N,d,df,f,N,f,N  repeat (That's f,qcf,f,f).
+
+Armor king handcuff glitch:
+
+With opponent face down do db+1+3/db+2+4 without doing the punches.
+Repeat until time runs out or your opponent beats you down for being
+a cheap bastard.  There is no escape for the mount, and the opponent
+is stunned for longer than it takes you to mount them again.  This
+is fixed in PS2 TTT.
+
+Mysterious Turn around:
+
+I've seen this before but I haven't actually tested it, but
+supposedly if you do this juggle: CD+2, 2, 1, d+1+2, and then you
+hold D and your opponent holds D, when they get up first they will
+be crouching, then mysteriously they will instantly be turned around
+backwards, still crouching.
+
+Ground throw anywhere:
+
+With King, there is a somewhat known bug where you can do b+1+2, 2+4
+and then get a ground throw even if you aren't next to them.  Another
+less known bug is the fact that you can do b+1+2, 2+4 with king, and
+then tag in armor king and still get the ground throw even if you
+aren't close to them.
+
+If Armor King escapes Kunimitsu's f+1+4 throw, he can do a BK+3 and
+then get a free throw before she even recovers.
+
+
+**********************
+Baek Do San
+**********************
+
+Basic Jab: 10 frames
+
+
+Wave step:  f,N,d,df,f,N,f,N  repeat (That's f,qcf,f,f).
+
+A throw is almost garanteed after uf+2 due to the guard stun.
+
+After his b+1+2 punch parry, a throw is garanteed (12 frame
+advantage).
+
+String Cancel to Flamingo Stance: 1,2,3~F
+
+Flamingo Cancel: Hold F or B in flamingo stance.  This allows you to
+do almost any normal move from flamingo stance.  There are a few
+excepts, however.  Some normal moves can still be done from the
+flamingo cancel but they have a different input.  Here are the
+exceptions:
+
+   From flamingo cancel:
+	1.  f+2+3 normal throw must be performed as f+2~3 from flamingo
+        cancel.  Also, when done this way it has a 1+2 escape instead
+        of just 2 escape as the normal f+2+3 throw has.
+
+	2.  3,3,3,4 or 3,3,4,4 type strings must be done as:
+		b+3 to get into flamingo then hold the 3, hit and hold F to
+        cancel flamingo, then hit 4 while still holding the 3.  A
+        standing 3 kick should then come out when you hit the 4 (not
+        3+4 flying halbred).  Other strings that start with 3 (even
+        a full crouched 3) can be done in a similar way.
+
+	3.  Flying halbred (3+4) must be done as: flamingo cancel (hold
+        F or B in flamingo) then N+3+4
+
+
+uf+3+4 is 1 frame faster than 3+4 even though it's the same move.
+
+WS+3,3,4, uf+3+4, f,f+4 is a true combo
+CD+4,4,3 is a true combo.
+
+**********************
+Bruce Irvin
+**********************
+
+Basic Jab: 8 frames
+
+After a CH F+4 (not CH 4) you can get b+4,3,4
+
+Supposedly this juggle works: Bryan CH b+1~5, bruce df+3,1, b+4,3,4.
+
+Bruce's basic right punch gives +12 frame advantage.  I'm not sure
+what's garanteed from that, but something must be.
+
+Even though 3,2,1 doesn't launch big characters, you can always do
+3,2,1,4 and still land the triple knees.
+
+If 1+3 is tech rolled, b,f+4 is garanteed.
+
+df+1,d+1 combos.
+
+Not tested, but according to frame data this should combo:
+ws+1,1~2,throw
+
+**********************
+Bryan Fury
+**********************
+
+Basic Jab: 8 frames
+
+If b+1~5 is blocked, at least a 1,2_4 combo is garanteed because
+b+1~5 gives an 8 frame advantage, and bryan's basic jab is 8 frames.
+The trick behind this technique is hitting the tag button.  For some
+reason the hit properties change when blocked, putting extra guard
+stun on the opponent.
+
+b+1~5, even though the opponent is grounded, a ground hit will juggle
+and takes away red damage.
+
+After parrying a right punch (does the "gut punch" not mach breaker),
+ff+4, df+3 is garanteed.
+
+When bryan's taunt connects (1+3+4), a throw is garanteed.  The taunt
+gives 15 frame advantage.
+
+Bryan doesn't fall down when hit by T.Ogre's fire attacks.
+
+**********************
+Devil & Angel
+**********************
+
+Basic Jab: 10 frames
+
+Wave step:  f,N,d,df,f, N, repeat.
+
+Most people don't realize this but devil is taller than angel, and
+as a result his standing laser goes over some opponent's heads (e.g.
+wang, roger & alex) while angel's doesn't.
+
+SS+2 hits the opponent extrodinarily high, with a funky tragectory.
+As a result some sick tag juggles are possible.
+
+Tagged with heihachi: ss+2~5, d+1+4.
+Tagged with Yoshi:    ss+2~5, ff+1+4
+Tagged with King:     ss+2~5, run cancel (ub,b) ss+3+4
+                      ss+2~5, f+1+2
+Tagged with Gunjack:  ss+2~5, d+4
+or Ganryu
+Tagged with jin/kaz:  ss+2~5, b+1+4 (B+1+4 vs big)
+
+I'm sure there are more.  Experiment.
+
+uf+4~3 is 1 frame faster than 4~3 even though it's the same move.
+
+Mysterious Turn Around:
+
+If you do the standing laser to an opponent that is all the way
+across the screen (farthest you can get) and they duck under it, for
+some reason they end up turning around backwards while crouched.
+I've only seen it a few times.
+
+
+**********************
+Eddy Gordo
+**********************
+
+Basic Jab: 10 frames
+
+SS+1+4 sometimes hit's anywhere on the screen.  To do it you must
+jump over the opponent when they are grounded.  Once you've done
+that, you can attempt the SS+1+4.  It should hit the opponent even
+if they are waaay out of range.  I believe this is fixed in the
+latest rev of the game.
+
+You can SS out of f+2,1,4 before you recover blocking.
+
+You can tag on ff+3+4 on any kind of hit (ch juggle or not).
+
+**********************
+Ganryu
+**********************
+
+Basic Jab (2): 14 frames
+
+Not many people realize this, but b+2 hits grounded opponents, but
+they must be off axis like jins b+4.
+
+Off of his punch parry, 1+2 is garanteed, d+1+2 is not, even though
+it's the same move.  1+2 is an auto-combo-follow-up to the punch
+parry, while doing d+1+2 does the move seperately, making it
+interruptable.  Ganryu's punch parry also reverses shoulder attacks,
+including his own b+1+2 unblockable.
+
+If the second part of WS+1+2, 1+2 hits, you gain a 23 frame
+advantage.  This is at least enough time for a garanteed throw or
+more depending on how fast you input the move.
+
+if 2,1 hits, d+1 is garanteed.
+
+After FC~df+1,2,1,1 is blocked, f,f+1+2 is garanteed.
+
+All 8 punches connect on CH f+1,2,1,2...
+Only 3 punches connect on CH  2,1,2,1...
+
+
+
+**********************
+Gunjack
+**********************
+
+Basic Jab (2): 10 frames
+
+FC,db+1, WS+4 combos together.
+
+After a wind up punch is blocked(HCF+1), a throw is garanteed.  You
+must time the throw so that it connects just as the stun is over,
+otherwise the throw attempt will go right through them.
+
+db,f+1+2 has unusually long range compared to other throws.  It
+allows a fair amount of *slop* in the motion.  You can do db, SS,
+f+1+2 and the throw will still come out.
+
+2, db,f+1+2 combos together.  The throw attempt can be broken or
+ducked however, but not even d+1 will interrupt it.
+
+After d~df+1,2,1,1 is blocked, f+1+2 is garanteed.
+
+Tag cancel:
+
+If you hit d+1+2, 5~5 with just the right timing, gunjack won't tag
+out, but instead the opponent will be knocked very high (Class 1),
+allowing you to do another d+1+2,5~5.  This might be an infinite
+juggle, but the timing is sick to get the tag cancel to come out.
+You have about a 1 frame window.  Another oddity is that you can
+throw the opponent right out of the air when you do this.
+
+You can low throw gunjack out of his d+1+2.
+
+Devil's laser:  When hit by devil's laser, jack automatically does
+the windmill punches.  If devil trys to attack jack when he's doing
+the auto windmill punches, jack automatically does p-jack's b+1+2
+gaurd move.  If devil attempts to shoot jack again with the laser
+while he's doing the auto windmill punches,  jack automatically does
+the f+3+4 head dive under the laser.
+
+**********************
+Heihachi Mishima
+**********************
+
+Basic Jab: 10 frames
+
+Wave step:  f,N,d,df,f, N, repeat.  If you do a crouch dash
+(f,N,d,df) then do (N,f), ff style moves will come out.
+f,N,d,df,N,f+2 will do a ff+2 demon god fist.
+
+uf+3,4:  If you delay pressing the 4 until the 3 is just about to
+hit, the 4 is garanteed.
+
+d+1,2:  He can be jabbed in between the 1 and 2.  This is especially
+deadly vs the changs as they get a CH 1~1~1.  You can also SSR
+between them.  Also if your char has a quick 4 (11 frame or better)
+you get a CH 4->juggle.  Finally, if the d+1 hits a crouching
+opponent, they can still get a d+1 in between the d+1,2.
+
+His right kick counter only works when doing his unblockable now.
+
+UF+3 (the stunning one) is garanteed if they tech roll a ff+1+2
+throw.
+
+uf+4~3 is 1 frame faster than 4~3 even though it's the same move.
+
+uf+4~3 is garanteed after 1+2 hits.
+
+F+1 has a +3 frame advantage, while f+1 has a +1 frame advantage.
+This means that F+1 recovers more quickly.  It makes juggles like
+EWGF, F+1, f,F+1, f,F+1, f,F+1, WGF possible.  The juggle doesn't
+work if you just use f,f+1.
+
+Heihachi can be low thrown out of the second part of F+1,b+2,1.
+
+CD+3 (the mid hitting version) hits big characters on the ground.
+
+CD+3_d+3 can be done as f,N,d,df,f,uf+3_d+3.  This way seems to
+execute more quickly, but I could be wrong.
+
+Heihachi's f,f+1+4 can only be done on: Heihachi, Jin, Kuma, Kazuya,
+Lei, and Paul. They can reverse this with either punch button to
+headbutt them back, Heihachi can reverse this with a 1+2, you can
+repeat this over and over to your heart's content
+
+quick WGF/EWGF is garanteed after f+4.
+
+EWGF has a 3 frame (not 1) slop factor, meaning you do f,N,d,df+2,
+and you have 3 frames to hit 2 within hitting df.
+
+These combos are garanteed (!) vs big chars:
+
+CH ws+2, d+1+4
+CH 4, d+1+4
+CH CD+4,4,4,1,F+1,b+2,4
+
+Sometimes when teamed with Wang using the tag button costumes, The
+intro animation will change.  Heihachi will do his power up moves
+like normal but instead of lightning animation it uses Wang's blue
+sphere animation.
+
+**********************
+Hwoarang
+**********************
+
+Basic Jab: 10 frames
+
+Wave step:  f,N,d,df,f,N,f,N  repeat (That's f,qcf,f,f).  If you do
+a crouch dash (f,N,d,df,f) then do N, f, ff style moves will come
+out.  f,N,d,df,f,N,f+2 will do a ff+2 throw.
+
+Flamingo cancel trick:  When in LFL, if you wait until he puts his
+foot down and then do f+button, you will do ff style moves.  So if
+you do f+3 and go into flamingo, then wait until he puts his foot
+down, then do f+4, you will do the ff+4 torpedo kick.  this trick
+doesn't work with RFL.
+
+Crazy legs step:  SS+3+4, dash+3+4, CD+3+4, whatever ;).  Basically,
+you interrupt any kind of special movement with the 3+4 stance
+change.  What happens is that any kind of special movement (besides
+a dash) changes stance to LFF and then you cancel that into RFF with
+the stance change, making your legs look spazy, since you are
+cancelling your movements and side steps, it actually allows you to
+move faster because it eliminates the delay at the end of the special
+movement (due to the cancelling effect).
+
+Long range throw: 1+2 (disrespect stance) then throw. Because of the
+turn around animation, the reach is further.
+
+Triple flamingo sidestep:
+SSR, f+3, SSR
+
+Double flamingo sidestep from RFF:
+f+4, SSL
+
+Triple flamingo SSL from LFF:
+SSL, f,N+4, SSL
+
+ff+4,df+2, 1, 2, 4 is garanteed off of a CH 4, IF the opponent
+doesn't hold back/down.  If they hold back/down they fall over and
+it doesn't connect, but most people don't know this.  Also, if you
+get hit by ff+4 and they attempt the df+2, if you attempt a throw,
+the df+2 won't juggle because your throw attempt turns you around.
+Just remember to hold d or b when you attempt the throw otherwise
+they will be able to hit you with ff+4 *again* because of the stagger
+that df+2 causes.  You can also escape CH 4, ff+4 by tagging out
+after the ff+4.
+
+uf+3,4,3:  If you delay pressing the 4 until the first 3 is just
+about to hit, the 4, 3 ender is garanteed.
+
+uf+3,4,3:  When blocked this move only displays the 3,4 part getting
+blocked.  The last 3 only comes out when the 4 connects, but if you
+enter the move as uf+3,4,3 anyway, the guard stun on the opponent is
+much longer, giving you frame advantage.
+
+After LFF, ff+4,3 is block, f+3 is garanteed vs Xiaoyu only.
+
+After RFF, 3~4 is blocked, df+4 is garanteed.
+
+After the fourth hit of his ten string, he ends in LFF, but he
+"passes" through RFF for a fraction of a second, allowing you to do
+RFF moves if you are quick enough.
+
+His ff+2 is a right punch escape, but the throw animation is a
+left punch animation (left hand is out further during the throw
+attempt animation).
+
+In LFF, you can press f+3+4, then f+3_4 to do RFF ff styles moves.
+From LFF, f+3+4 changes stances but also registers a f, then doing
+f+button registers as ff+button.  This also works from RFF.
+
+After the opponent blocks uf+3,4,3, df+2 is garanteed(?)
+
+
+
+**********************
+Jack-2
+**********************
+
+Basic Jab (2): 10 frames
+
+db,f+1+2 connects after a CH 3.  db,f+1+2 has unusually long range,
+and it also has a *slop* factor to it's input.  You can do db, SS,
+f+1+2 and the throw still comes out.
+
+After a wind up punch is blocked(HCF+1), a throw is garanteed.  You
+must time the throw so that it connects just as the stun is over,
+otherwise the throw attempt will go right through them.
+
+2, db,f+1+2 combos together.  The throw attempt can be broken or
+ducked though, but not even d+1 will interrupt it.
+
+After FC~df+1,2,1,1 is blocked, f+1+2 is garanteed.
+
+Tag cancel:
+
+If you hit d+1+2, 5~5 with just the right timing, jack-2 won't tag
+out, but instead the opponent will be knocked very high (Class 1),
+allowing you to do another d+1+2,5~5.  This might be an infinite
+juggle, but the timing is sick to get the tag cancel to come out.
+You have about a 1 frame window.  Another oddity is that you can
+throw the opponent right out of the air when you do this.
+
+You can low throw jack-2 out of his d+1+2.
+
+Devil's laser:  When hit by devil's laser, jack automatically does
+the windmill punches.  If devil trys to attack jack when he's doing
+the auto windmill punches, jack automatically does p-jack's b+1+2
+gaurd move.  If devil attempts to shoot jack again with the laser
+while he's doing the auto windmill punches,  jack automatically does
+the f+3+4 head dive under the laser.
+
+**********************
+Jin Kazama
+**********************
+
+Basic Jab: 10 frames
+
+Wave step:  f,N,d,df,f, N, repeat.  If you do a crouch dash
+(f,N,d,df,f) then do N, f, ff style moves will come out.
+f,N,d,df,f,N,f+2 will do a ff+2 straight punch.
+
+UF+3 (the stunning one) is garanteed if they tech roll a ff+1+2
+throw.
+
+Jin's WGF/EWGF hit's Sm if you buffer it with tag.
+
+uf+4~3 is 1 frame faster than 4~3 even though it's the same move.
+
+His ten string ff+2,1,4,4,2,4,3,2,1 has an odd property in that if
+you stop at the 5th hit, it recovers crouching.
+
+His 1+3 throw has different properties when teamed with Jun or
+Kazuya.  The opponent hits the ground "harder" allowing a garanteed
+d+3 or dash in b+4.
+
+These combos are garanteed(!) vs big chars:
+CH b+4, b+1+4
+Devil Jin 1+2, B+1+4
+
+Jin's WR+3 can be done as f,N,d,df,f,uf+3.  You have to hit the 3 at
+the exact moment you hit uf, otherwise you'll just get the
+"demon hop" move.
+
+EWGF has a 3 frame (not 1) slop factor, meaning you do f,N,d,df+2,
+and you have 3 frames to hit 2 within hitting df.
+
+**********************
+Jun Kazama
+**********************
+
+Basic Jab: 10 frames
+
+Her 1+4 when done against a ducking big character causes them to
+stand due to a wierd guard break (hellsweep), making it very hard for
+big characters to get out of it by blocking low.  Normal characters
+can just block the first part low and do a WS move or d+1 after the
+1+4.
+
+Unlike Jin, when d+3+4 is blocked high, it you must active block it
+otherwise it will juggle.
+
+WS+3 is garanteed after CH FC,df+2
+
+**********************
+Julia Chang
+**********************
+
+Basic Jab: 8 frames
+
+You can get a mad axe throw by doing qcb, SS, f+2.  It still comes
+out.  The mad axe throw also has extra long range compared to other
+throws.
+
+triple side step:  SSR, 3+4, SSR
+
+You can hop kick and get a full lift after d,df+1,(CH) 2 but not
+after (CH) D,df+2
+
+f,F+1 has a much longer recovery time than f,f+1.  The reason for
+this is that you can do f,F+1, 4 and delay the 4, but with f,f+1,4
+you can't delay it.
+
+Hitting tag during a blocked f+1+2 puts you at a whopping 5 times
+disadvantage that you would normally be at without buffering tag.
+Also f+1+2~5 will tag on any kind of hit (ch juggle or not).
+
+df+2,1 is garanteed after blocking all of law's flip kick combos
+that recover crouching.  Be warned that law has the option to recover
+crouching or standing after a lot of his flip kick combos though
+(like d+2,3), but there are some that always recover crouching (3,4)
+and some that always recover standing (4,u+3).
+
+(From MIC) If you know the opponent is going to try and tech roll
+you can do this juggle: uf+4, 1, ff+1, ff+1, df+1 (whiff) ~1 (hits
+them as they tech roll), 1, ff+1, ff+1, d,df+1, 2.  They have to tech
+roll to their left for this to work.
+
+**********************
+Kazuya Mishima
+**********************
+
+Basic Jab: 10 frames
+
+Wave step:  f,N,d,df,f, N, repeat.  If you do a crouch dash
+(f,N,d,df,f) then do N, f, ff style moves will come out.
+f,N,d,df,f,N,f+3 will do a ff+3 overhead kick.
+
+UF+3 (the stunning one) is garanteed if they tech roll a ff+1+2
+throw.
+
+uf+4~3 is 1 frame faster than 4~3 even though it's the same move.
+
+His nine string ff+2,1,4,4,2,4,3,2,1 has an odd property in that if
+you stop at the 5th hit, it recovers crouching.
+
+This combo is garanteed(!) vs big chars:
+f+1+2, B+1+4
+
+**********************
+King
+**********************
+
+Basic Jab: 8 frames
+
+Wave step:  f,N,d,df,f,N,f,N  repeat (That's f,qcf,f,f).  If you do
+a crouch dash (f,N,d,df) then do N, f, ff style moves will come out.
+f,N,d,df,f,N,f+4 will do a ff+4 convict kick.  You can also buffer
+the giant swing this way:  f,N,d,df,f,N,f,hcf+1.
+
+2,1,f,hcf+1 combos together.
+
+1,2,1,f,hcf+1 combos together.
+
+2,1, 2,1, b+4, BK 3 is a true combo.  Does this work in TTT?
+
+King can reverse the ankle kick (grounded face up/feet towards d+3).
+
+If King escapes Kunimitsu's f+1+4 throw, he can do a BK+3 and then
+get a free throw before she even recovers.
+
+King->A.King is an inescapable throw.  b+1+2~5.
+
+Bug: After b+1+2, 2+4, King can ground throw the opponent, even if
+he's not near the opponent.
+
+King's elbow drop (U+2+4) is garanteed after a kick reversal.
+
+
+**********************
+Kuma & Panda
+**********************
+
+Basic Jab (f+1): 8 frames
+
+After a HBS 1+2~5, a flying chop (ff,n+1+2) juggles.  It's about the
+only thing that is garanteed after that.
+
+You can low parry Kuma's df+1+2 headbutt
+
+You can low parry Kuma's b+1+2 unblockable.
+
+**********************
+Kunimitsu
+**********************
+
+Basic Jab: 8 frames
+
+If f+3+4 is blocked, the opponent gets a side throw.
+
+
+df+2~5 causes a wierd (hellsweep) guard break when blocked.  It also
+juggles even on crouching opponents, no CH required.  Very abusable.
+
+
+**********************
+Lee Chaolan
+**********************
+
+Basic Jab: 8 frames
+
+Advanced silver fang (different, causes guard stun): b+1, N+1, N+2,
+NOT b+1,b+1, b+2.  Update: Ok, so I was wrong.  You can do it like
+b+1,b+1,b+2.  It's all in the timing of the second b+1.  If you do it
+just as the first b+1 hits, it will do the advanced silver fang.
+
+UF+3 (the stunning one) is garanteed if they tech roll a ff+3+4
+throw.
+
+Lee's mist step (f,N) is considered standing (you'll do standing
+moves out of it) even though it ducks under high attacks and looks
+like a crouch dash.  It also can be interrupted into anything, at
+any time.  So you can do a psuedo wave step via f,N,f,N,...
+
+Lee can tag on b+4 whether it hits or not.
+
+If you get the side throw where he steps on the opponents face and
+laughs, you'll get a special win animation (he laughs more).  (From
+Castel) If you get this side throw vs Bryan, sometimes Bryan will
+actually laugh back and regain some energy.  It doesn't happen 100%
+of the time though.
+
+In hitman stance, a basic jab (1) can be interrupted into the hitman
+3 kick.  Example: 3+4, 1~3, the jab animation gets interrupted by
+the kick animation.
+
+After d+1, ws+3,d+3,3,3 cannot be interrupted (even by yoshi's b+1+4)
+
+**********************
+Lei Wu Long
+**********************
+
+Basic Jab: 8 frames
+
+Silent back step: b+3+4,b, repeat
+
+HaHa step: b,b,3~4+b, repeat
+
+HeHe step: b,b,4~3+b, repeat
+
+Lei spaz:  b+3+4~b+3+4~b+3+4.... cancel back turn into another back
+turn very quickly.  Looks funny but I don't know of any uses for it.
+It can also be done with any of the "HaHa" motions, i.e.
+b+3~4 ~ b+3~4, ...
+
+Lei stutter: b+3+4~d, repeat.  Looks kind of like haha step but it
+doesn't go anywhere.  Useless but funny.
+
+Lei the balarina: CNS, f~b~f~b...  Watch those tippy toes!
+
+WS+3 hits grounded opponents off axis like jin's b+4.
+
+PNS 2 hits grounded opponents off axis like jin's b+4.
+
+b+1, 4~3 is garanteed.
+
+Electric slide forward: f~N,b, repeat.  There is a certain rythym to
+it, but if done right it can be really effective and looks funky.
+It's basically cancelling a crab walk into another crab walk.
+
+If 1,2,1 connects on CH, a BK d+1 juggle is garanteed
+
+Razor Rush:  You can SSL between the first and second punch, SSR
+between second and third, SSL between third and forth, etc.  If they
+don't delay any punches, the next punch in the rush WILL hit you if
+you attempt the sidestep, but the next punch after that will wiff and
+you can then do an attack to lei's side.  Example, they razor rush,
+you SSR between the 2nd and 3rd punch.  The 3rd punch hits you, the
+4th wiffs and you hop kick->juggle.  If there is any delay at all in
+the razor rush, you will sidestep right out of it untouched,
+but you still have to sidestep in the correct direction depending on
+the punch.  Unfortunately big chars can't get out of it this way, as
+even when they SS correctly, they are too big to not get hit by the
+rest of the rush.
+
+**********************
+Ling Xiaoyu
+**********************
+
+Basic Jab: 8 frames
+
+BK turn glitch:
+AoP: 1+3~D, D,D/B+3+4  Sometimes xiaoyu just ends up back turned when
+you do this without any animation for it.
+
+Triple SSR: SSR, 3+4, SSR
+Triple SSR with Raindance: SSR, b+3+4, SSR
+
+Triple SSL: SSL, b+1+2, SSL
+Triple SSL with Raindance:  SSL, b+1+2, d+1+4, D/B+3+4 (sometimes
+causes BK turn glitch)
+
+df+2~1 hits grounded opponents.
+
+You can low throw ling when she is in AoP.
+
+(BK 4)_(BK uf+4) is garanteed after a CH BK d+3 to opponents BK.
+
+When ling's taunt (2+3+4) connects, a throw is garanteed (if you are
+close enough).  The taunt gives 15 frame advantage on connect.
+
+After 1+3, db+3 will go through them and you'll end up at their BK.
+More BK setup fun!
+
+**********************
+Forest Law
+**********************
+
+Basic Jab: 8 frames
+
+According to the frame data, law's basic 4 is now at 10 frames in
+TTT.  This makes it as fast as some character's basic jabs.
+
+Funny super charge: b~f~b~f....  Because of the way he dances, this
+looks really funny.
+
+Law can slide low: D,df,d,df.    Most people just do the slide kick
+but it's actually useful just as a movement option.  You can also
+slide close to them and do a ws+2.
+
+UF+3 (the stunning one) is garanteed if they tech roll a ff+3+4
+throw.
+
+Most people don't know about it, but law has this cheezy 2 hit
+combo: 1+2+3+4, 1,3. You have to supercharge to get it to come out.
+
+**********************
+Michelle Chang
+**********************
+
+Basic Jab: 8 frames
+
+
+A little known juggle: (CH) ff+1, 4, ff+1, ff+1, ff+1, ff+1, 4.
+Because michelles elbow doesn't knock away like julia's, the whole
+combo is garanteed off of a single CH elbow.
+
+Michelle has no double escape throws.
+
+Michelle can hop kick with full lift after a CH d,D/F+2 (her new
+stun move)
+
+SS+2 recovers crouching, has +5 advantage on hit and has no block
+disadvantage.
+
+SS+2, ws+4 combos together.
+
+
+If you know the opponent is going to try and tech roll you can do
+this juggle: uf+4, 1, ff+1, ff+1, df+1 (whiff) ~1 (hits them as they
+tech roll), 1, ff+1, ff+1, ff+1, ff+1,4. They have to tech roll to
+their left for this to work.
+
+
+
+**********************
+Mokujin/Testujin
+**********************
+
+When immitating Roger & Alex, his db+3 hits anywhere on the screen.
+I'm not sure about the exact conditions.
+
+When teamed with Julia, and mokujin is immitating julia (or visa
+versa with michelle), doing the b+2~5 tag throw causes the opponent
+to freeze, stuck until hit again or time runs out.  From there you
+can just tag mokujin in and out until you get Jack and do the 5x
+windup punch o' death.  I believe this bug is fixed in the latest
+rev.
+
+Gold testujin:  You get gold testujin when you pick testujin after
+getting 10 wins.  Gold tetsujin has the unique property of giving
+whoever he is teamed up with a netsu power up after 5 hits.  This
+works for characters that usually don't ever get netsu powered up
+like ogre and jack-2.
+
+**********************
+Nina Williams
+**********************
+
+Basic Jab: 8 frames
+
+Her uf+1+2 throw can be tech rolled, however if you tag throw and
+they tech roll, a flying chop (f,f,N+1+2) is almost garanteed.  They
+can escape it by tagging out after they tech.
+
+Hayashida step: half circle from D to B to U.  Repeat.  Nina does
+the sway back cancelled into a SS.  Looks really wierd when done
+correctly.
+
+Even though it's the same kick, CH 4 causes a stagger, while CH f+4
+juggles.
+
+Anna blows Nina's evil mist back at her, making evil mist->db+3+4
+impossible on her.
+
+CH 4, d,DF+2 combos.
+
+SS+1~b~uf+1+2 combos.
+
+**********************
+Ogre
+**********************
+
+Basic Jab: 10 frames
+
+uf+3,4,3:  If you delay pressing the 4 until the 3 is just about to
+hit, the 4, 3 is garanteed.
+
+uf+3,4,3:  When blocked this move only displays the 3,4 part getting
+blocked.  The last 3 only comes out when the 4 connects, but if you
+enter the move as uf+3,4,3 anyway, the guard stun on the opponent is
+much longer, giving you frame advantage.
+
+df+1, d+1 combos.
+
+After d+1, ws+3,d+3,3,3 cannot be interrupted (even by yoshi's b+1+4)
+
+**********************
+Paul Phoenix
+**********************
+
+Basic Jab: 8 frames
+
+f+2, d+3.  In TK3, If they blocked the 2, the 3 was garanteed.  This
+has been fixed in TTT.
+
+If you are tackled and they throw a right punch, 1, 1, 2 will grab
+their arm and break it (not the same as the arm bar reversal).
+
+d+1,2:  He can be jabbed in between the 1 and 2.  This is especially
+deadly vs the changs as they get a CH 1~1~1.  You can also SSR
+between them.  Also if your char has a quick 4 (11 frame or better)
+you get a CH 4->juggle.  Finally, if the d+1 hits a crouching
+opponent, they can still get a d+1 in between the d+1,2.
+
+Hayashida step: half circle from D to B to U.  Repeat.  Paul does the
+sway back cancelled into a SS.  Looks really wierd when done
+correctly.
+
+His ff+1+2~5 to Hwoarang/Baek db+3+4 is escapable.  Just mash 3 and
+you'll sweep them at the last second.
+
+If they block the faceup/feet-towards b,b+3+4 dive, a jab will juggle
+them out of their guard break.
+
+
+**********************
+Prototype Jack
+**********************
+
+Basic Jab (2): 10 frames
+
+Funky step: b+1+2~f, repeat.  Basically repeated cancels of his super
+guard move.
+
+After a wind up punch is blocked(HCF+1), a throw is garanteed.  You
+must time the throw so that it connects just as the stun is over,
+otherwise the throw attempt will go right through them.
+
+d+1,2:  He can be jabbed in between the 1 and 2.  This is especially
+deadly vs the changs as they get a CH 1~1~1.  You can also SSR
+between them.  Also if your char has a quick 4 (11 frame or better)
+you get a CH 4->juggle.  Finally, if the d+1 hits a crouching
+opponent, they can still get a d+1 in between the d+1,2.
+
+(From MIC)  If you know the opponent is going to tech roll to their
+left, you can do this juggle:  SS+1, UF+4, 2, SS+1.  The last SS+1
+is garanteed if they tech roll to their left.
+
+Xiaoyu crys her death cry when you spank her with the right side
+throw.
+
+SS+1 hits on the ground on off axis opponents like jin's b+4.
+
+SS+1 causes a guard stagger, SS+1~5 doesn't. :(
+
+Besides the side throw, P-Jack has no 1 escape throws
+(only 2 and 1+2).
+
+After FC~df+1,2,1,1 is blocked, f+1+2 is garanteed.
+
+Devil's laser:  When hit by devil's laser, jack automatically does
+the windmill punches.  If devil trys to attack jack when he's doing
+the auto windmill punches, jack automatically does p-jack's b+1+2
+gaurd move.  If devil attempts to shoot jack again with the laser
+while he's doing the auto windmill punches,  jack automatically does
+the f+3+4 head dive under the laser.
+
+**********************
+Roger & Alex
+**********************
+
+Basic Jab: 8 frames
+
+Wave step:  f,N,d,df,f,N,f,N  repeat (That's f,qcf,f,f).
+
+If f,N+1 is blocked, f,N, d, df+1 is garanteed.   f, N+1 gives
+41(!) frame advantage on block.
+
+db+3 hit's low but is not low parriable.
+
+You can low parry roger's df+1+2 headbutt
+
+1, d+1,N+2 combos together.
+
+**********************
+True Ogre
+**********************
+
+Basic Jab: 10 frames
+
+uf+3,4,3:  If you delay pressing the 4 until the 3 is just about
+to hit, the 4, 3 is garanteed.
+
+uf+3,4,3:  When blocked this move only displays the 3,4 part getting
+blocked.  The last 3 only comes out when the 4 connects, but if you
+enter the move as uf+3,4,3 anyway, the guard stun on the opponent is
+much longer, giving you frame advantage.
+
+D,f+2 hits on the ground.
+
+Holding d/f with true ogre causes him to reverse low, Sm, and some
+Mid attacks (like Yoshi's df+2 uppercut).  Generally, it reverses any
+move with the notation d/b_d_d/f + 1_2. The reversal is a throw, and
+the escape for the throw is 1.
+
+After d+1, ws+3,d+3,3,3 cannot be interrupted (even by yoshi's b+1+4)
+
+**********************
+Wang Jin Rei
+**********************
+
+Basic Jab: 8 frames
+
+A throw is garanteed after a SS+1+2 due to the guard stun.  QCF+4 is
+also garanteed.
+
+Sick wanning moon tags:
+
+df,DF+2+4~5->panda uf+1+2, BK 1+3
+df,DF+2+4~5->yoshi f,F+1+4
+
+The df,DF+2+4~5 to panda uf+1+2, BK 1+3 IS escapable.  Just hold down
+and you will recover crouching out of the wanning moon, ducking the
+back throw attempt.
+
+The df,DF+2+4~5-> yoshi suicide is also escapable.  Just tag out at
+the last second and it will wiff.
+
+Tag cancel: db+4, 2, 5~5.  If you do this correctly, wang will start
+the motion, and then just stop in the middle of the punch.  You can
+also do db+4,2,5~2 and the first punch will be interrupted into a
+second punch.  It looks kind of like their is a crouch dash between
+the db+4 and 2.  Also, if you do this and hold up or down, wang will
+do what looks like db+4~CD~SS~db+2.  If it wasn't so damn hard to do
+(maybe 1 frame window), it would be very useful.
+
+
+**********************
+Yoshimitsu
+**********************
+
+Basic Jab: 8 frames
+
+You can SSL out of the first and second hit of the door knocker.
+
+His b,b+1 hits big chars on the ground.
+
+In close, his b+1+4 hits all large characters without them even
+moving.
+
+If you tap b,d/b at the right time, you can recover BK out of his
+SS+3+4.
+
+The last two hits of his b+1+4, 1+2, u~uf, 1+2 are escapable.  You
+must tech roll to the right after you get hit by the pogostick and
+then hold back.
+
+df+2~5 causes a wierd (hellsweep) guard break when blocked.  It also
+juggles even on crouching opponents, no CH required.  Very abusable.
+
+You can b+3+4 out of almost any string in the game (like Jin's 1,1,2
+or lei's razor rush).  Sometimes you need to do more than one spin
+because of tracking though.
+
+You can low throw yoshi when he's in the death stance (b+1+2).
+
+Bug:  If you block yoshi's 4,4,4, your character will run backwards
+to the end of the screen then forwards again.  You have to hit tag
+when you block the last 4 to get this bug to work.
+
+If they block the faceup/feet-towards b,b+3+4 dive, a jab will
+juggle them out of their guard break.
+
+
+*************************************
+History
+*************************************
+05/07/00 - v.1.4 More cleanup.
+03/28/00 - v.1.3 A few tricks here and there.  Jump-over-tricks added
+03/17/00 - v.1.2 A few more basic things added
+03/10/00 - v.1.1 clean up, few tricks added
+03/01/00 - v.1.0 initial doc
+
+
+*************************************
+Credits
+*************************************
+
+jjt
+KOFTEKKEN
+Notti
+Ug The Caveman
+Castel
+QDogg
+Renick
+elefanc
+Skreezy
+Shrapnel
+Kyx
+MrChuckly
+Jorkie
+DevilXHollywood
+Brahma
+
+These BBS's have been a great asset:
+
+www.tekkenzaibatsu.com
+salute.consolenation.com
+
+Thank you everybody that has been sending in tricks and giving
+props.  I'm sorry if I haven't emailed all of you, but life is hectic
+right now. You know how that goes...
+
+Please send corrections/additional tricks to me (jjt) at
+nagumo@hotmail.com and they will be added to the FAQ.
+
+
+EOF
+
